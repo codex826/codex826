@@ -105,13 +105,6 @@ designing <b>Large Language Models</b>, and implementing
 ---
 
 # 🚀 Featured Projects
-
-### 🌫 AQI Prediction using Deep Learning
-Machine Learning system predicting **Air Quality Index using time series data**
-
-Tech Stack:
-`Python` `TensorFlow` `LSTM` `Data Visualization`
-
 ---
 
 ### 📈 Financial Risk Management AI
@@ -131,13 +124,5 @@ Tech Stack:
 ⭐️ From [Sushant Nichat](https://github.com/codex826)
 ---
 
-## 🧪 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🌍 AQI Prediction** | Deep Learning system for real-time Air Quality forecasting. | `LSTMs`, `Python`, `Docker` |
-| **🧠 Financial Risk LLM** | Fine-tuned Transformer for analyzing market sentiment and risk. | `PEFT`, `HuggingFace`, `PyTorch` |
-| **🤖 NLP Automation** | CI/CD pipeline for automated model testing and deployment. | `GitHub Actions`, `MLflow`, `AWS` |
-
----
 
