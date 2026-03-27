@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Nichat</h1>
-<h3 align="center">Machine Learning Engineer | LLM Researcher | AI Systems Developer</h3>
+<h3 align="center">Machine Learning Engineer | AI Researcher | AI Systems Developer</h3>
 
 <p align="center">
 I specialize in building scalable <b>Machine Learning systems</b>, 
