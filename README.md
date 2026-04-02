@@ -2,11 +2,14 @@
 <h3 align="center">Machine Learning Engineer | AI Researcher | AI Systems Developer</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/codex826/claw-code/main/assets/clawd-hero.jpeg" alt="Sushant Nichat Hero Image" width="100%">
+</p>
+
+<p align="center">
 I specialize in building scalable <b>Machine Learning systems</b>, 
 designing <b>Large Language Models</b>, and implementing 
 <b>MLOps & LLMOps pipelines</b> for reliable AI deployment.
 </p>
-
 ---
 
 ## 🌐 Connect with Me
